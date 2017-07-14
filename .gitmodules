@@ -1,0 +1,3 @@
+[submodule "net-http-spore"]
+	path = net-http-spore
+	url = https://github.com/fcuny/net-http-spore
