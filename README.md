@@ -6,17 +6,17 @@ Skrill Wallet Integration in Perl
 
 To install this module, run the following commands:
 
-	* perl Makefile.PL
-	* make
-	* make test
-	* make install
+    perl Makefile.PL
+    make
+    make test
+    make install
 
 ## SUPPORT AND DOCUMENTATION
 
 After installing, you can find documentation for this module with the
 perldoc command.
 
-    `perldoc Processor::Skrill`
+    perldoc Processor::Skrill
 
 ## LICENSE AND COPYRIGHT
 
